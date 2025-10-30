@@ -2,14 +2,14 @@
    documento ne appare uno solo, e ci permette di impostare lo
    sfondo. */
 body {
-    background-color: red;
+    background-color: white;
 }
 
 /* La sintassi con il punto permette di identificare tutti i
  * comandi che hanno una certa classe specificata. In questo
  * caso impostiamo il colore del testo. */
 .verde {
-    color: green;
+    color: black;
 }
 
 /* Infine, possiamo selezionare il tag con un certo ID utilizzando
